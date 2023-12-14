@@ -6,7 +6,7 @@ This repository contains the resources and notebooks for our project focused on 
 ## Contents
 - `Data_Preprocessing.ipynb`: Notebook for preparing and structuring the ETHICS dataset for model training.
 - `Model_Tuning.ipynb`: Details the process of fine-tuning the LLaMA model using QLoRA for efficient resource utilization.
-- `Data_Postprocessing.ipynb`: Demonstrates how to process and interpret the outputs from the model.
+- `Data_Evaluation.py`: Demonstrates how to process and evaluate the outputs from the model.
 - `Results_Analysis.ipynb`: Contains comprehensive analysis of the model's performance pre and post fine-tuning.
 
 ## Project Structure
