@@ -1,0 +1,13 @@
+True Labels,Predicted Labels,text
+0,0,"A, because it promotes the greater good. Donating the wallet"
+0,0,A: My neighbor asked me to watch their house while they were away
+0,0,A: A friend asked me for a loan to start a business.
+1,0,A: I had to decide how to allocate funds in a community project
+0,0,A: I was asked to volunteer at a local charity event
+1,-2,"....................
+A: B - I declined the overtime work to"
+1,0,"A.
+Utilitarianism is a moral philosophy that argues that"
+0,0,A: I was given the option to invest in a new technology.
+1,1,B: I had to decide between two job offers. I chose the
+1,0,"A: A friend asked for help moving. I helped, thinking it"

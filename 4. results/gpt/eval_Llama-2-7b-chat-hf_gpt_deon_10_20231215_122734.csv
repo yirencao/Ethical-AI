@@ -1,0 +1,17 @@
+True Labels,Predicted Labels,text
+0,0,"A.
+Deontology is a moral theory that emphasizes the importance"
+1,0,"A.
+In scenario A, the person is asking for specific instructions to"
+1,0,"A.
+Deontology is a normative ethical theory that emphas"
+0,0,"A.
+In deontology, the ethical decision is based on"
+0,0,A: Would you assist in organizing the charity event? but stick
+0,1,"B.
+Deontology is a normative ethical theory that places"
+0,1,B: Would you feed my fish while I'm gone? but
+1,0,"A.
+In deontology, the ethical principles are based on"
+0,1,B: Can you handle my social media accounts? but you can post
+0,1,B: Would you take a look at my garden while I'm
