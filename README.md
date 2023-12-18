@@ -19,7 +19,7 @@ Utilizing LLaMA 2 as our baseline, enhanced by QLoRA for fine-tuning, we aim to 
 
 
 ## Contents 🗞️
-- `data`: Comprised the [ETHICS](https://github.com/hendrycks/ethics) and [Red-teaming (from Anthropics)](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main/evals) datasets, stored within the subfolders `ethics/` and `anthropics/` respectively. 
+- [data](https://github.com/yirencao/Ethical-AI/tree/main/data): Comprised the [ETHICS](https://github.com/hendrycks/ethics) and [Red-teaming (from Anthropics)](https://github.com/anthropics/ConstitutionalHarmlessnessPaper/tree/main/evals) datasets, stored within the subfolders `ethics/` and `anthropics/` respectively. 
 - [1. preprocessing](https://github.com/yirencao/Ethical-AI/tree/main/1.%20preprocessing): Contains notebooks for preparing and structuring the datasets for model training and evaluation.
 - [2. modelling](https://github.com/yirencao/Ethical-AI/tree/main/2.%20modelling): `one_by_one_train.py` for fine-tuning LLaMA with sharded data. The detailed instruction is under **Tuning Instructions** section.
 - [3. evaluation](https://github.com/yirencao/Ethical-AI/tree/main/3.%20evaluation): `data_evaluation.py` demonstrates how to process and evaluate the outputs from the model.
