@@ -1,9 +1,10 @@
 # AI Ethics in Large Language Models 🤖
 
-## Description 📚
-This repository contains the resources and notebooks for our project focused on integrating ethical considerations into AI systems, particularly Large Language Models (LLMs) like LLaMA. Our aim is to explore how AI systems can handle ethical dilemmas and align more closely with human ethical values, using a combination of technical and philosophical approaches.
+Hi there, Welcome! 👋
 
-## Project Structure 🗓️
+Within this repository, you will find the resources and notebooks for our project focused on integrating ethical considerations into AI systems, particularly Large Language Models (LLMs) like LLaMA. Our aim is to explore how AI systems can handle ethical dilemmas under different ethical theories, using a combination of technical and philosophical approaches.
+
+## Project Structure 📚
 Details accessible at [our project wiki](https://fdh.epfl.ch/index.php/Generative_AI:_1._Ethics_2.CLIP). 
 - Week-by-week plan documenting our progress.
 - Milestones marking key stages in our research and development process.
