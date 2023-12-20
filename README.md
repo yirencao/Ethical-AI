@@ -23,7 +23,7 @@ Utilizing LLaMA 2 as our baseline, enhanced by QLoRA for fine-tuning, we aim to 
 
 ### Model Performance 
 
-<img src="4. results/accu.png" alt="Accuracy Results" width="500"/>
+<img src="4. results/overall_p.png" alt="Accuracy Results" width="500"/>
 
 
 
