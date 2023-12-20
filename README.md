@@ -16,6 +16,15 @@ The ETHICS dataset, encompassing scenarios representing justice, virtue, deontol
 
 Utilizing LLaMA 2 as our baseline, enhanced by QLoRA for fine-tuning, we aim to balance high performance with alignment to human ethical values.
 
+### Examples 
+<img src="4. results/example.png" alt="util" width="500"/>
+
+<img src="4. results/example_deon.png" alt="deon" width="500"/>
+
+### Model Performance 
+
+<img src="4. results/accu.png" alt="Accuracy Results" width="500"/>
+
 
 
 ## Contents 🗞️
@@ -64,4 +73,4 @@ python one_by_one_train.py
 ```
 
 
-Happy coding!  🎉
+Happy coding! 🎉
